@@ -1,13 +1,14 @@
-# Exam Submission Details
+# Exam Details
+3 Questions in C++
 
-When you are ready to sumbit your function/program, go into Rendu and push the folder you created by doing the following:
+:one: Warlock - [Subject Text](https://github.com/myagjz/42-Exam_Rank_05/blob/main/cpp_module00/subject.en.txt)
 
-1. git add <folder name>
+:two: Question 1 and Aspell, Atarget, Dummy and Fwoosh - [Subject Text](https://github.com/myagjz/42-Exam_Rank_05/blob/main/cpp_module01/subject.en.txt)
 
-2. git status
+:three: Question 1, Question 2 and BrickWall, Fireball, Polymorph, SpellBook and TargetGenerator - [Subject Text](https://github.com/myagjz/42-Exam_Rank_05/blob/main/cpp_module02/subject.en.txt)
 
-2. git commit -m "any commit message you like"
+<br>
 
-3. git push
+### Total Excepted Files
 
-4. After you git push, type `grademe` in the examshell for your project to be submitted. 
+> 16 .cpp (c++ files) and 16 .hpp (header files) = 32 files total.
